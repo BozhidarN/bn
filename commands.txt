@@ -1,0 +1,53 @@
+
+
+C:\Users\161201>git init lab1
+
+
+C:\Users\161201>cd lab1
+
+
+C:\Users\161201\lab1>notepad l1.txt
+
+C:\Users\161201\lab1>git add l1.txt
+
+C:\Users\161201\lab1>git commit -m "Initial commit"
+
+
+C:\Users\161201\lab1>git commit -a -m "modify l1.txt"
+
+
+C:\Users\161201\lab1>git remote add origin https://github.com/BozhidarN/bn.git
+
+C:\Users\161201\lab1>git push -u origin master
+
+C:\Users\161201\lab1>git reset --hard HEAD
+
+C:\Users\161201\lab1>git branch logging
+
+C:\Users\161201\lab1>git checkout logging
+
+
+C:\Users\161201\lab1>notepad log.txt
+
+C:\Users\161201\lab1> git log
+
+C:\Users\161201\lab1>git add log.txt
+
+C:\Users\161201\lab1>git commit -m "log.txt"
+
+C:\Users\161201\lab1>git push origin logging
+
+C:\Users\161201\lab1>git checkout master
+
+C:\Users\161201\lab1>git merge logging
+
+C:\Users\161201\lab1>git push origin master
+
+
+C:\Users\161201\lab1>git branch allcomands
+
+C:\Users\161201\lab1>git checkout allcomands
+
+C:\Users\161201\lab1> notepad commands.txt
+
+C:\Users\161201\lab1>
