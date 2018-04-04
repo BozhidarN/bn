@@ -1,0 +1,11 @@
+commit 73cc3bbf63433224bb046c291cd2d5ae8a04a4ce (HEAD -> logging, origin/master, master)
+Author: unknown <bozhidar.neshkoski@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:40:53 2018 +0200
+
+    modify l1.txt
+
+commit b60ac2b1a1bbb299faf9d151d12bed50a591b860
+Author: unknown <bozhidar.neshkoski@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:29:01 2018 +0200
+
+    Initial commit
